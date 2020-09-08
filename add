@@ -6,3 +6,4 @@ class Main
     System.out.println(a+b);
   }
 }
+ thats it
